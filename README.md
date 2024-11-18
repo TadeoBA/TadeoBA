@@ -6,7 +6,7 @@
     Passionate about turning data into actionable insights and collaborating on innovative projects.
   </p>
   <p>
-    📫 <a href="mailto:tadeobayonaraque@gmail.com">tadeobayonaraque@gmail.com</a> | 🌐 <a href="https://www.linkedin.com/in/tadeobayona">LinkedIn</a> | 🔗 <a href="https://github.com/tadeobayona">GitHub</a>
+    📫 <a href="mailto:tadeobayonaraque@gmail.com">tadeobayonaraque@gmail.com</a> | 🌐 <a href="https://www.linkedin.com/in/tadeobayonaa">LinkedIn</a> | 🔗 <a href="https://github.com/TadeoBA">GitHub</a>
   </p>
 </div>
 
