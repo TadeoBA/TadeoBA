@@ -1,9 +1,9 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src="Grey Geometric Business LinkedIn Banner GitHub.png" />
+</div>
 
-<!--
-**TadeoBA/TadeoBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
