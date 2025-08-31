@@ -2,7 +2,7 @@
   <img decoding="async" src="Grey Geometric Business LinkedIn Banner GitHub.png" alt="Banner" />
   <h1>Hi, I'm Tadeo Bayona! 🧑‍💻</h1>
   <p>
-    <strong>Junior Data Analyst</strong> | Python 🐍 | SQL 🗃️ | Data Visualization 📊 | Problem-Solving 🔍 <br>
+    <strong>Data Analyst</strong> | Python 🐍 | SQL 🗃️ | Data Visualization 📊 | Problem-Solving 🔍 <br>
     Passionate about turning data into actionable insights and collaborating on innovative projects.
   </p>
   <p>
